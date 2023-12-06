@@ -10,16 +10,5 @@ Medical imaging plays a crucial role in diagnosis and treatment planning. Howeve
 
 To go beyond resolution enhancement, the enhanced images are subsequently processed through an object detector. This allows for the identification and localization of tumors within the medical images, aiding in the diagnostic process.
 
-### Installation
-  *  Clone the repository:
-      git clone https://github.com/Jehan-7/Medical-Images-Enhancer-using-GAN-s.git
-
-  *   Change into the cloned directory:
-        cd Medical-Images-Enhancer-using-GAN-s
-
-  *   Install required dependencies:
-
-        pip install -r requirements.txt
-
 
 
