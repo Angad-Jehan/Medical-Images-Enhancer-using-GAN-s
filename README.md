@@ -1,4 +1,4 @@
-# Medical-Images-Enhancer-using-GAN-s
+# Medical-Images-Enhancer-using-GAN-s (SeSiGAN)
 
 This repository contains a novel architecture for enhancing the resolution of medical images using a Siamese Generative Adversarial Network (GAN) paired with a sequential layer in the generator. Additionally, the enhanced images are passed through an object detector for the identification of tumors.
 
